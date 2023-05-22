@@ -1,0 +1,602 @@
+[
+  {
+    "rank": "1",
+    "title": "Spicy",
+    "artist": "aespa",
+    "album": "MY WORLD - The 3rd Mini Album"
+  },
+  {
+    "rank": "2",
+    "title": "I AM",
+    "artist": "IVE (아이브)",
+    "album": "I've IVE"
+  },
+  {
+    "rank": "3",
+    "title": "UNFORGIVEN (feat. Nile Rodgers)",
+    "artist": "LE SSERAFIM (르세라핌)",
+    "album": "UNFORGIVEN"
+  },
+  {
+    "rank": "4",
+    "title": "퀸카 (Queencard)",
+    "artist": "(여자)아이들",
+    "album": "I feel"
+  },
+  {
+    "rank": "5",
+    "title": "Kitsch",
+    "artist": "IVE (아이브)",
+    "album": "I've IVE"
+  },
+  {
+    "rank": "6",
+    "title": "손오공",
+    "artist": "세븐틴 (SEVENTEEN)",
+    "album": "SEVENTEEN 10th Mini Album ‘FML'"
+  },
+  {
+    "rank": "7",
+    "title": "꽃",
+    "artist": "지수 (JISOO)",
+    "album": "ME"
+  },
+  {
+    "rank": "8",
+    "title": "Hype boy",
+    "artist": "NewJeans",
+    "album": "NewJeans 1st EP 'New Jeans'"
+  },
+  {
+    "rank": "9",
+    "title": "물론",
+    "artist": "허각",
+    "album": "물론"
+  },
+  {
+    "rank": "10",
+    "title": "Ditto",
+    "artist": "NewJeans",
+    "album": "NewJeans 'OMG'"
+  },
+  {
+    "rank": "11",
+    "title": "사랑은 늘 도망가",
+    "artist": "임영웅",
+    "album": "신사와 아가씨 OST Part.2"
+  },
+  {
+    "rank": "12",
+    "title": "파이팅 해야지 (Feat. 이영지)",
+    "artist": "부석순 (SEVENTEEN)",
+    "album": "부석순 1st Single Album 'SECOND WIND'"
+  },
+  {
+    "rank": "13",
+    "title": "Heaven(2023)",
+    "artist": "임재현",
+    "album": "시작은 첫키스 OST Part.1"
+  },
+  {
+    "rank": "14",
+    "title": "헤어지자 말해요",
+    "artist": "박재정",
+    "album": "1집 Alone"
+  },
+  {
+    "rank": "15",
+    "title": "OMG",
+    "artist": "NewJeans",
+    "album": "NewJeans 'OMG'"
+  },
+  {
+    "rank": "16",
+    "title": "Cupid",
+    "artist": "FIFTY FIFTY",
+    "album": "The Beginning: Cupid"
+  },
+  {
+    "rank": "17",
+    "title": "우리들의 블루스",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "18",
+    "title": "Teddy Bear",
+    "artist": "STAYC(스테이씨)",
+    "album": "Teddy Bear"
+  },
+  {
+    "rank": "19",
+    "title": "사건의 지평선",
+    "artist": "윤하 (YOUNHA)",
+    "album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'"
+  },
+  {
+    "rank": "20",
+    "title": "다시 만날 수 있을까",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "21",
+    "title": "London Boy",
+    "artist": "임영웅",
+    "album": "Polaroid"
+  },
+  {
+    "rank": "22",
+    "title": "I Don't Think That I Like Her",
+    "artist": "Charlie Puth",
+    "album": "CHARLIE"
+  },
+  {
+    "rank": "23",
+    "title": "Dangerously",
+    "artist": "Charlie Puth",
+    "album": "Nine Track Mind (Deluxe Edition)"
+  },
+  {
+    "rank": "24",
+    "title": "Allergy",
+    "artist": "(여자)아이들",
+    "album": "I feel"
+  },
+  {
+    "rank": "25",
+    "title": "Polaroid",
+    "artist": "임영웅",
+    "album": "Polaroid"
+  },
+  {
+    "rank": "26",
+    "title": "After LIKE",
+    "artist": "IVE (아이브)",
+    "album": "After LIKE"
+  },
+  {
+    "rank": "27",
+    "title": "이제 나만 믿어요",
+    "artist": "임영웅",
+    "album": "내일은 미스터트롯 우승자 특전곡"
+  },
+  {
+    "rank": "28",
+    "title": "무지개",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "29",
+    "title": "사랑..그게 뭔데",
+    "artist": "지아",
+    "album": "사랑..그게 뭔데"
+  },
+  {
+    "rank": "30",
+    "title": "심(心)",
+    "artist": "DK(디셈버)",
+    "album": "심(心)"
+  },
+  {
+    "rank": "31",
+    "title": "빛이 나는 너에게",
+    "artist": "던 (DAWN)",
+    "album": "빛이 나는 너에게"
+  },
+  {
+    "rank": "32",
+    "title": "아버지",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "33",
+    "title": "안녕이라고 말하지마",
+    "artist": "V.O.S",
+    "album": "안녕이라고 말하지마"
+  },
+  {
+    "rank": "34",
+    "title": "ANTIFRAGILE",
+    "artist": "LE SSERAFIM (르세라핌)",
+    "album": "ANTIFRAGILE"
+  },
+  {
+    "rank": "35",
+    "title": "사람 Pt.2 (feat. 아이유)",
+    "artist": "Agust D",
+    "album": "D-DAY"
+  },
+  {
+    "rank": "36",
+    "title": "LOVE DIVE",
+    "artist": "IVE (아이브)",
+    "album": "LOVE DIVE"
+  },
+  {
+    "rank": "37",
+    "title": "FRIEND THE END",
+    "artist": "볼빨간사춘기",
+    "album": "사랑.zip"
+  },
+  {
+    "rank": "38",
+    "title": "나의 바람 (Wind And Wish)",
+    "artist": "비투비",
+    "album": "WIND AND WISH"
+  },
+  {
+    "rank": "39",
+    "title": "인생찬가",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "40",
+    "title": "A bientot",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "41",
+    "title": "Attention",
+    "artist": "NewJeans",
+    "album": "NewJeans 1st EP 'New Jeans'"
+  },
+  {
+    "rank": "42",
+    "title": "손이 참 곱던 그대",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "43",
+    "title": "사랑해 진짜",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "44",
+    "title": "F*ck My Life",
+    "artist": "세븐틴 (SEVENTEEN)",
+    "album": "SEVENTEEN 10th Mini Album ‘FML'"
+  },
+  {
+    "rank": "45",
+    "title": "Thirsty",
+    "artist": "aespa",
+    "album": "MY WORLD - The 3rd Mini Album"
+  },
+  {
+    "rank": "46",
+    "title": "NIGHT DANCER",
+    "artist": "imase",
+    "album": "NIGHT DANCER"
+  },
+  {
+    "rank": "47",
+    "title": "연애편지",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "48",
+    "title": "CHRISTIAN",
+    "artist": "Zior Park",
+    "album": "WHERE DOES SASQUATCH LIVE? PART 1"
+  },
+  {
+    "rank": "49",
+    "title": "Like Crazy",
+    "artist": "지민",
+    "album": "FACE"
+  },
+  {
+    "rank": "50",
+    "title": "KNOCK",
+    "artist": "이채연",
+    "album": "Over The Moon"
+  },
+  {
+    "rank": "51",
+    "title": "보금자리",
+    "artist": "임영웅",
+    "album": "IM HERO"
+  },
+  {
+    "rank": "52",
+    "title": "Dynamite",
+    "artist": "방탄소년단",
+    "album": "Dynamite (DayTime Version)"
+  },
+  {
+    "rank": "53",
+    "title": "Love Me Like This",
+    "artist": "NMIXX",
+    "album": "expérgo"
+  },
+  {
+    "rank": "54",
+    "title": "사랑인가 봐",
+    "artist": "멜로망스",
+    "album": "사랑인가 봐 (사내맞선 OST 스페셜 트랙)"
+  },
+  {
+    "rank": "55",
+    "title": "너의 모든 순간",
+    "artist": "성시경",
+    "album": "별에서 온 그대 OST Part.7"
+  },
+  {
+    "rank": "56",
+    "title": "사랑하기 싫어",
+    "artist": "지아",
+    "album": "사랑하기 싫어"
+  },
+  {
+    "rank": "57",
+    "title": "Salty & Sweet",
+    "artist": "aespa",
+    "album": "MY WORLD - The 3rd Mini Album"
+  },
+  {
+    "rank": "58",
+    "title": "봄날",
+    "artist": "방탄소년단",
+    "album": "YOU NEVER WALK ALONE"
+  },
+  {
+    "rank": "59",
+    "title": "Nxde",
+    "artist": "(여자)아이들",
+    "album": "I love"
+  },
+  {
+    "rank": "60",
+    "title": "Butter",
+    "artist": "방탄소년단",
+    "album": "Butter"
+  },
+  {
+    "rank": "61",
+    "title": "사랑하지 않아서 그랬어",
+    "artist": "임한별",
+    "album": "사랑하지 않아서 그랬어"
+  },
+  {
+    "rank": "62",
+    "title": "The Planet",
+    "artist": "방탄소년단",
+    "album": "The Planet"
+  },
+  {
+    "rank": "63",
+    "title": "TOMBOY",
+    "artist": "(여자)아이들",
+    "album": "I NEVER DIE"
+  },
+  {
+    "rank": "64",
+    "title": "잠깐 시간 될까",
+    "artist": "이무진",
+    "album": "잠깐 시간 될까"
+  },
+  {
+    "rank": "65",
+    "title": "Permission to Dance",
+    "artist": "방탄소년단",
+    "album": "Butter / Permission to Dance"
+  },
+  {
+    "rank": "66",
+    "title": "건물 사이에 피어난 장미 (Rose Blossom)",
+    "artist": "H1-KEY (하이키)",
+    "album": "H1-KEY 1st Mini Album [Rose Blossom]"
+  },
+  {
+    "rank": "67",
+    "title": "해요 (2022)",
+    "artist": "#안녕",
+    "album": "해요 (2022)"
+  },
+  {
+    "rank": "68",
+    "title": "그라데이션",
+    "artist": "10CM",
+    "album": "5.3"
+  },
+  {
+    "rank": "69",
+    "title": "That's Hilarious",
+    "artist": "Charlie Puth",
+    "album": "CHARLIE"
+  },
+  {
+    "rank": "70",
+    "title": "Candy",
+    "artist": "NCT DREAM",
+    "album": "Candy - Winter Special Mini Album"
+  },
+  {
+    "rank": "71",
+    "title": "Monologue",
+    "artist": "테이",
+    "album": "Monologue"
+  },
+  {
+    "rank": "72",
+    "title": "STAY",
+    "artist": "The Kid LAROI, Justin Bieber",
+    "album": "Stay"
+  },
+  {
+    "rank": "73",
+    "title": "Say I Love You",
+    "artist": "우디 (Woody)",
+    "album": "Say I Love You (Re : WIND 4MEN Vol.04)"
+  },
+  {
+    "rank": "74",
+    "title": "취중고백",
+    "artist": "김민석 (멜로망스)",
+    "album": "취중고백"
+  },
+  {
+    "rank": "75",
+    "title": "FEARLESS",
+    "artist": "LE SSERAFIM (르세라핌)",
+    "album": "FEARLESS"
+  },
+  {
+    "rank": "76",
+    "title": "ELEVEN",
+    "artist": "IVE (아이브)",
+    "album": "ELEVEN"
+  },
+  {
+    "rank": "77",
+    "title": "Nostalgia",
+    "artist": "우디 (Woody)",
+    "album": "Nostalgia"
+  },
+  {
+    "rank": "78",
+    "title": "부동의 첫사랑",
+    "artist": "10CM",
+    "album": "5.4 [부동의 첫사랑]"
+  },
+  {
+    "rank": "79",
+    "title": "on the street (with J. Cole)",
+    "artist": "j-hope, J. Cole",
+    "album": "on the street (with J. Cole)"
+  },
+  {
+    "rank": "80",
+    "title": "Shut Down",
+    "artist": "BLACKPINK",
+    "album": "BORN PINK"
+  },
+  {
+    "rank": "81",
+    "title": "정이라고 하자 (Feat. 10CM)",
+    "artist": "BIG Naughty (서동현)",
+    "album": "정이라고 하자"
+  },
+  {
+    "rank": "82",
+    "title": "발걸음",
+    "artist": "DK(디셈버)",
+    "album": "발걸음"
+  },
+  {
+    "rank": "83",
+    "title": "내가 아니라도",
+    "artist": "주호",
+    "album": "내가 아니라도"
+  },
+  {
+    "rank": "84",
+    "title": "먼지",
+    "artist": "세븐틴 (SEVENTEEN)",
+    "album": "SEVENTEEN 10th Mini Album ‘FML'"
+  },
+  {
+    "rank": "85",
+    "title": "새삥 (Prod. ZICO) (Feat. 호미들)",
+    "artist": "지코 (ZICO)",
+    "album": "스트릿 맨 파이터(SMF) Original Vol.3 (계급미션)"
+  },
+  {
+    "rank": "86",
+    "title": "Pink Venom",
+    "artist": "BLACKPINK",
+    "album": "BORN PINK"
+  },
+  {
+    "rank": "87",
+    "title": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack] (Feat. FIFA Sound)",
+    "artist": "정국, 방탄소년단",
+    "album": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]"
+  },
+  {
+    "rank": "88",
+    "title": "다정히 내 이름을 부르면",
+    "artist": "경서예지, 전건호",
+    "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)"
+  },
+  {
+    "rank": "89",
+    "title": "그중에 그대를 만나",
+    "artist": "김호중",
+    "album": "삼남매가 용감하게 OST Part.1"
+  },
+  {
+    "rank": "90",
+    "title": "나의 마음에 (Seed)",
+    "artist": "태양",
+    "album": "Down to Earth"
+  },
+  {
+    "rank": "91",
+    "title": "그때 그 순간 그대로 (그그그)",
+    "artist": "WSG워너비 (가야G)",
+    "album": "WSG워너비 1집"
+  },
+  {
+    "rank": "92",
+    "title": "Angel Pt. 1 (Feat. Kodak Black, NLE Choppa, JVKE, Muni Long)",
+    "artist": "지민",
+    "album": "FAST X [Original Motion Picture Soundtrack](분노의 질주: 라이드 오어 다이 OST)"
+  },
+  {
+    "rank": "93",
+    "title": "VIBE (feat. Jimin of BTS)",
+    "artist": "태양",
+    "album": "VIBE (feat. Jimin of BTS)"
+  },
+  {
+    "rank": "94",
+    "title": "April shower",
+    "artist": "세븐틴 (SEVENTEEN)",
+    "album": "SEVENTEEN 10th Mini Album ‘FML'"
+  },
+  {
+    "rank": "95",
+    "title": "밤이 무서워요 (Lonely Night)",
+    "artist": "주주 시크릿",
+    "album": "밤이 무서워요 (Lonely Night)"
+  },
+  {
+    "rank": "96",
+    "title": "오르트구름",
+    "artist": "윤하 (YOUNHA)",
+    "album": "YOUNHA 6th Album 'END THEORY'"
+  },
+  {
+    "rank": "97",
+    "title": "한사람만 (2023) (여름날 우리 X 이홍기 (FT아일랜드))",
+    "artist": "이홍기 (FT아일랜드)",
+    "album": "한사람만 (2023) (여름날 우리 X 이홍기 (FT아일랜드))"
+  },
+  {
+    "rank": "98",
+    "title": "해금",
+    "artist": "Agust D",
+    "album": "D-DAY"
+  },
+  {
+    "rank": "99",
+    "title": "Perfume",
+    "artist": "NCT 도재정",
+    "album": "Perfume - The 1st Mini Album"
+  },
+  {
+    "rank": "100",
+    "title": "I Don't Understand But I Luv U",
+    "artist": "세븐틴 (SEVENTEEN)",
+    "album": "SEVENTEEN 10th Mini Album ‘FML'"
+  }
+]
